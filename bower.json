@@ -1,7 +1,7 @@
 {
   "name": "rawline-font",
   "main": [
-    "font/*",
+    "fonts/*",
     "css/rawline.css"
   ],
   "homepage": "https://github.com/vedammc/Raleway_Fixed_Numerals",
